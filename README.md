@@ -4,7 +4,7 @@ I dedicated this repository to learn Machine Learning,
 align to field that i interested in which AI and IoT 
 i hope with this step i can become expert in this area.
 
-🎯 To-Do (tentative)
+🎯 To-Do (frequently change)
 - Numpy
 - Pandas
 - Matplotlib
